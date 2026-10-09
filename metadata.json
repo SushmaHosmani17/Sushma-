@@ -1,0 +1,6 @@
+{
+  "name": "Talfor Digital Forensics - Evidence Timeline & Event Correlation",
+  "description": "Enterprise AI-powered digital evidence timeline reconstruction, multi-source event correlation, and forensic investigation platform by Talfor Digital Forensics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
